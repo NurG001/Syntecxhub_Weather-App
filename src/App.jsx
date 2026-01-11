@@ -10,7 +10,7 @@ import {
 } from 'lucide-react';
 
 // Import local images
-import dayImg from './assets/img/day.jpg';
+import dayImg from './assets/img/Day.jpg';
 import morningImg from './assets/img/Morning.jpg';
 import nightImg from './assets/img/Night.jpg';
 import sunsetSunriseImg from './assets/img/Sunset_&_Sunrise.jpg';
