@@ -1,6 +1,24 @@
+![WeatherSphere Banner](https://raw.githubusercontent.com/NurG001/mine/refs/heads/main/project%20img/weatherapp/banner.png)
 # 🌤️ WeatherSphere - Global Forecasting
 
 **WeatherSphere** is a professional-grade, high-performance weather dashboard built with **React** and **Tailwind CSS**. It provides a sleek "Bento Box" style interface for real-time weather tracking, 5-day forecasts, and atmospheric insights.
+
+> **Live Demo**: [🚀 Click here to visit the Live Site](https://nurs-weathersphere.netlify.app/)
+
+### 📱 Interface Preview
+
+| Desktop View | Mobile View  |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/NurG001/mine/refs/heads/main/project%20img/weatherapp/desktopview.png" width="100%" alt="Desktop View" /> | <img src="https://raw.githubusercontent.com/NurG001/mine/refs/heads/main/project%20img/weatherapp/mobile.png" width="100%" alt="Mobile View" /> |
+
+---
+
+
+### 🌗 Dynamic Time-Based Backgrounds
+
+| Morning | Day | Sunset | Night |
+| :---: | :---: | :---: | :---: |
+| ![Morning](src/assets/img/Morning.jpg) | ![Day](src/assets/img/Day.jpg) | ![Sunset](src/assets/img/Sunset_&_Sunrise.jpg) | ![Night](src/assets/img/Night.jpg) |
 
 ## 🚀 Key Features
 
@@ -86,10 +104,5 @@ WeatherSphere utilizes a **glassmorphism** aesthetic combined with high-contrast
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
 
 **Developed by Ismail Mahmud Nur** *Full Stack Developer*
